@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Viết lại câu này bằng Tiếng Anh",
+    "sentence": [
+      {
+        "text": "Tôi",
+        "translations": ["I"]
+      },
+      {
+        "text": "thích",
+        "translations": ["like"]
+      },
+      {
+        "text": "cà phê",
+        "translations": ["coffe"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "like ",
+        "sound": "like.mp3"
+      },
+      {
+        "id": "2",
+        "text": "coke ",
+        "sound": "coke.mp3"
+      },
+      {
+        "id": "3",
+        "text": "hate ",
+        "sound": "hate.mp3"
+      },
+      {
+        "id": "4",
+        "text": "She ",
+        "sound": "she.mp3"
+      },
+      {
+        "id": "5",
+        "text": "breakfast ",
+        "sound": "breakfast.mp3"
+      },
+      {
+        "id": "6",
+        "text": "I ",
+        "sound": "I.mp3"
+      },
+      {
+        "id": "7",
+        "text": "coffee ",
+        "sound": "coffee.mp3"
+      }
+    ],
+    "solutions": ["I like coffee "]
+  },
+  {
+    "title": "Viết lại câu này bằng Tiếng Việt",
+    "sentence": [
+      {
+        "text": "He",
+        "translations": ["Anh ấy", "Cậu ấy"]
+      },
+      {
+        "text": "is",
+        "translations": ["đang"]
+      },
+      {
+        "text": "coding",
+        "translations": ["gõ code"]
+      },
+      {
+        "text": "in tears",
+        "translations": ["trong nước mắt"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "ăn cơm ",
+        "sound": "ăn cơm.mp3"
+      },
+      {
+        "id": "2",
+        "text": "code ",
+        "sound": "code.mp3"
+      },
+      {
+        "id": "3",
+        "text": "trong ",
+        "sound": "trong.mp3"
+      },
+      {
+        "id": "4",
+        "text": "nụ cười ",
+        "sound": "nụ cười.mp3"
+      },
+      {
+        "id": "5",
+        "text": "Anh ấy ",
+        "sound": "Anh ấy.mp3"
+      },
+      {
+        "id": "6",
+        "text": "đang ",
+        "sound": "đang.mp3"
+      },
+      {
+        "id": "7",
+        "text": "nước mắt ",
+        "sound": "nước mắt.mp3"
+      }
+    ],
+    "solutions": ["Anh ấy đang code trong nước mắt "]
+  }
+]
