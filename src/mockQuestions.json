@@ -1,5 +1,133 @@
 [
   {
+    "title": "Viết lại câu này bằng Tiếng Việt",
+    "sentence": [
+      {
+        "text": "Yes!",
+        "translations": ["vâng, được"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "Vâng ",
+        "sound": "vâng.mp3"
+      },
+      {
+        "id": "2",
+        "text": "cho ",
+        "sound": "cho.mp3"
+      },
+      {
+        "id": "3",
+        "text": "nước ",
+        "sound": "nước.mp3"
+      },
+      {
+        "id": "4",
+        "text": "không ",
+        "sound": "không.mp3"
+      }
+    ],
+    "solutions": ["Vâng "]
+  },
+  {
+    "title": "Viết lại câu này bằng Tiếng Việt",
+    "sentence": [
+      {
+        "text": "Hi.",
+        "translations": ["Xin chào"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "Xin ",
+        "sound": "Xin.mp3"
+      },
+      {
+        "id": "2",
+        "text": "chào ",
+        "sound": "chào.mp3"
+      },
+      {
+        "id": "3",
+        "text": "nóng ",
+        "sound": "nóng.mp3"
+      },
+      {
+        "id": "4",
+        "text": "cà phê ",
+        "sound": "cà phê.mp3"
+      }
+    ],
+    "solutions": ["Xin chào "]
+  },
+  {
+    "title": "Viết lại câu này bằng Tiếng Việt",
+    "sentence": [
+      {
+        "text": "Thank you.",
+        "translations": ["Cảm ơn"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "sữa ",
+        "sound": "sữa.mp3"
+      },
+      {
+        "id": "2",
+        "text": "là ",
+        "sound": "là.mp3"
+      },
+      {
+        "id": "3",
+        "text": "ơn ",
+        "sound": "ơn.mp3"
+      },
+      {
+        "id": "4",
+        "text": "Cảm ",
+        "sound": "Cảm.mp3"
+      }
+    ],
+    "solutions": ["Cảm ơn "]
+  },
+  {
+    "title": "Viết lại câu này bằng Tiếng Việt",
+    "sentence": [
+      {
+        "text": "iced ta",
+        "translations": ["trà đá"]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "1",
+        "text": "cà phê ",
+        "sound": "cà phê.mp3"
+      },
+      {
+        "id": "2",
+        "text": "đá ",
+        "sound": "đá.mp3"
+      },
+      {
+        "id": "3",
+        "text": "trà ",
+        "sound": "trà.mp3"
+      },
+      {
+        "id": "4",
+        "text": "tạm biệt ",
+        "sound": "tạm biệt.mp3"
+      }
+    ],
+    "solutions": ["trà đá "]
+  },
+  {
     "title": "Viết lại câu này bằng Tiếng Anh",
     "sentence": [
       {
